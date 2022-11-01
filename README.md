@@ -1,2 +1,7 @@
-# Grupal-7
-Trabajo que se realizo en conjunto con: Alexander Porcal, Federico Montossi, German Almeida y Daniel Gasaniga
+Obligatorio grupal 7 - JAP.
+
+Integrantes:
+    -Alexander Porcal
+    -Fabian Montossi
+    -German Almeida
+    -Daniel Gasaniga
